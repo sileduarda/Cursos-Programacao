@@ -1,8 +1,8 @@
-# Cursos DIO
+# Cursos
 
-print('Olá, seja bem-vindo ao meu repositório de Cursos DIO!') :D
+print('Olá, seja bem-vindo ao meu repositório de Cursos!') :D
 
-Nesse repositório estão todos os projetos e exercícios desenvolvidos nos cursos da DIO (Digital Innovation One). Também disponibilizarei meu arquivo de estudos e anotações para auxiliar no aprendizado. 
+Nesse repositório estão todos os projetos e exercícios desenvolvidos nos cursos de programação. Também disponibilizarei meu arquivo de estudos e anotações para auxiliar no aprendizado. 
 
 ## Estrutura do Repositório
 - Cada curso possui uma pasta dedicada com o nome do curso.
