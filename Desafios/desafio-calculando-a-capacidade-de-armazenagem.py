@@ -1,2 +1,2 @@
 import math
-paletes_neecssarios = math.
+paletes_necessários = math.ceil()
