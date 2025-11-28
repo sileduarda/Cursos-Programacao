@@ -5,14 +5,14 @@ print('Olá, seja bem-vindo ao meu repositório de Cursos!') :D
 Nesse repositório estão todos os projetos e exercícios desenvolvidos nos cursos de programação. Também disponibilizarei meu arquivo de estudos e anotações para auxiliar no aprendizado. 
 
 ## Estrutura do Repositório
-- Cada curso possui uma pasta dedicada com o nome do curso.
+- Cada linguagem aprendida possui uma pasta dedicada com o nome da linguagem.
 - Dentro de cada pasta, você encontrará:
-  - Projetos desenvolvidos durante o curso.
+  - Projetos desenvolvidos durante os cursos.
   - Exercícios práticos.
   - Anotações e materiais de estudo.   
 
 ## Como Utilizar Este Repositório
-1. Navegue até a pasta do curso que você está interessado.
+1. Navegue até a pasta da linguagem que você está interessado.
 2. Explore os projetos e exercícios disponíveis.
 3. Utilize as anotações para reforçar seu aprendizado.
 4. Sinta-se à vontade para clonar o repositório e praticar os exercícios localmente.    
