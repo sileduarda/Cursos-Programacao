@@ -23,7 +23,7 @@ class LimpezaDados:
 
     
 # Exemplo com um DF criado especificamente para teste
-df = pd.read_csv(r"C:\Users\eduar\OneDrive\Documentos\Programacao\DIO\Python\Anotações e PDF's\exemplo_poo.csv", encoding="UTF-8", sep = ";")
+df = pd.read_csv(r"C:\Users\eduar\OneDrive\Documentos\Programacao\DIO\Python\Anotações e PDF's\dataframes\exemplo_poo.csv", encoding="UTF-8", sep = ";")
 
 #print(df.head())
 df = LimpezaDados(df)
