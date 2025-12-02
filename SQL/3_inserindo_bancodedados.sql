@@ -1,9 +1,7 @@
 use cadastro;
 
 insert into usuarios
-(id, nome, nascimento, sexo, peso, altura, nacionalidade)
-values 
-("1", "Godofredo", "1992-01-02", "M", "78.5", "1.83", "Brasil");
+(id, nome, nascimento, sexo, peso, altura, nacionalidade) values ("1", "Godofredo", "1992-01-02", "M", "78.5", "1.83", "Brasil");
 
 
 insert into usuarios values

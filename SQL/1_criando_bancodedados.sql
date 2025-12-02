@@ -1,5 +1,7 @@
 create database cadastro; 
 
+use cadastro; 
+
 create table pessoas(
 nome varchar (30),
 idade tinyint (3),
