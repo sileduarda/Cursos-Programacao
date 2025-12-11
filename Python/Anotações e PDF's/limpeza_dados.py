@@ -15,11 +15,19 @@ class LimpezaDados:
     def normalizar(self):
         def normalize(col):
             col = str(col).strip().upper().replace(" ", "_")
-            col = unicodedata.normalize("NFKD", col).encode("ascii", "ignore").decode("utf-8")
+            col = unicodedata.normalize("NFKD", col).encode("ascii", "ignore").decode("utfmb-8")
             return col
         
         self.dataframe.columns = [normalize(col) for col in self.dataframe.columns]
         return self.dataframe
+    
+    
+class ResumoDados:
+    def __init__ (self, df.columns):
+        self.df = df
+        self.columns = df.columns
+        pass
+
 
     
 # Exemplo com um DF criado especificamente para teste
